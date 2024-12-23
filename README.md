@@ -8,6 +8,7 @@ Rails: 7.1.5.1
 
 Important notes:
 
->> Run 'bundle install' in order to install dependencies;
->> Set up the database by running 'rails db:create db:migrate';
->> Seed the database with 'rails db:seed' (optional for initial data).
+• Run 'bundle install' in order to install dependencies;
+• Set up the database by running 'rails db:create db:migrate';
+• Seed the database with 'rails db:seed' (optional for initial data);
+• Run 'rails server' to open the project.
